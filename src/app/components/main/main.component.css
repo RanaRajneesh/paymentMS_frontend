@@ -1,0 +1,28 @@
+.example-card {
+    max-width: 500px;
+    /* background-color: rgb(192, 36, 36); */
+    color: black;
+  }
+  
+  .container{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    /* background-color: black;
+    color: white; */
+  }
+
+  img{
+    margin-top: 10px;
+  }
+  h1{
+    font-size:xx-large
+  }
+
+  .custom.mat-grid-list{
+    margin: 0;
+   }
+
+   .mat-raised-button.mat-dark {
+    color: #f0fff3;
+    background-color: #140e0e;
+  }

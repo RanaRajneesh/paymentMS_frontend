@@ -1,0 +1,17 @@
+.brand-logo {
+  height: 100%;
+  width: 85px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.top-bar {
+  /* background: linear-gradient(111.1deg, rgb(255, 175, 123) -4.8%, rgb(255, 115, 115) 60.7%,  rgb(255, 115, 115)  97.2%); */
+  box-shadow: 0 0 5px 0 rgb(0, 0, 0);
+}
+.top-bar button {
+  margin-right: 10px;
+}
+.flex-fill {
+  flex-grow: 4;
+}

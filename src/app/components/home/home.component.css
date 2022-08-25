@@ -1,0 +1,18 @@
+.example-stepper {
+  margin-top: 8px;
+}
+
+.mat-form-field {
+  margin-top: 16px;
+}
+
+.mat-raised-button.mat-dark {
+  color: #f0fff3;
+  background-color: #140e0e;
+}
+
+.container {
+  margin: 0 2em;
+  padding: 0 30px;
+  /* border: 5px solid black; */
+}
